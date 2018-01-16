@@ -1,0 +1,10 @@
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/bin/Debug/netcoreapp2.0/LoadUnload.deps.json
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/bin/Debug/netcoreapp2.0/LoadUnload.runtimeconfig.json
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/bin/Debug/netcoreapp2.0/LoadUnload.runtimeconfig.dev.json
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/bin/Debug/netcoreapp2.0/LoadUnload.dll
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/bin/Debug/netcoreapp2.0/LoadUnload.pdb
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/obj/Debug/netcoreapp2.0/LoadUnload.csproj.CoreCompileInputs.cache
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/obj/Debug/netcoreapp2.0/LoadUnload.AssemblyInfoInputs.cache
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/obj/Debug/netcoreapp2.0/LoadUnload.AssemblyInfo.cs
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/obj/Debug/netcoreapp2.0/LoadUnload.dll
+/home/student/Documents/netProbe/LoadUnloadDll/LoadUnload/obj/Debug/netcoreapp2.0/LoadUnload.pdb

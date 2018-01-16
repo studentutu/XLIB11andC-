@@ -1,0 +1,5 @@
+Use :
+dotnet new [console| ]
+dotnet restore
+dotnet build
+dotnet run
